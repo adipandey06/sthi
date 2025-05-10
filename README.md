@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8720152d-de7e-4ce3-b8f7-e6d69dfb39e0" width="300"/>
 </p>
----
 
 ## 🏗️ Context: The Indian B2B Market
 
