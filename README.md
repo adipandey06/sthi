@@ -2,8 +2,9 @@
 
 > ⚠️ **Note**: This isn’t an MVP or functional prototype—just a proof of thought and initial direction.
 
-![Mockup](https://github.com/user-attachments/assets/8720152d-de7e-4ce3-b8f7-e6d69dfb39e0)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8720152d-de7e-4ce3-b8f7-e6d69dfb39e0" width="300"/>
+</p>
 ---
 
 ## 🏗️ Context: The Indian B2B Market
