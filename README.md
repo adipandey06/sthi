@@ -1,48 +1,51 @@
-***Note: This isn’t an MVP or functional prototype—just a proof-of-thought and initial direction.***
 
 
-India’s B2B market thrives on long-standing relationships and a negotiation-driven culture, where flexibility in payment terms, delivery conditions, and order volumes is key. For less-established MSMEs lacking access to widespread informal networks, existing online platforms like IndiaMART, JustDial, TradeIndia, Moglix, and Infra.Market fall short in replicating the trust, flexibility, and efficiency these businesses need.
+<p align="center"> <img src="https://github.com/user-attachments/assets/8720152d-de7e-4ce3-b8f7-e6d69dfb39e0" width="30%" /> </p>
+India’s B2B market runs on long-standing relationships and negotiation-driven workflows. Flexibility in payment terms, delivery timelines, and order volumes is critical. But for smaller MSMEs lacking access to these informal networks, most online platforms—IndiaMART, JustDial, TradeIndia, Moglix, Infra.Market—fail to replicate the trust, fluidity, and efficiency they need.
 
-### The Problem with Existing Platforms
+Note: This isn’t an MVP or functional prototype—just a proof of thought and initial direction.
 
-#### Classifieds-Based Marketplaces
+The Problem with Existing Platforms
+Classifieds-Based Marketplaces
+IndiaMART
+Issues: Buyers face a clunky interface, outdated listings, and inactive sellers. Weak chat UX pushes conversations to WhatsApp. Verification is lax, so buyers must manually filter junk. Vendors get spammy or low-intent leads.
+Pricing: Freemium model with paid subscriptions (₹3,000–₹50,000+/yr) offering visibility, CRM, and lead access (~₹350+ per lead).
+Seller ROI: Affordable, but low-quality leads and high competition hurt returns.
+Cultural Fit: Poor. Lacks built-in negotiation flow and flexibility.
 
-- **IndiaMART**
-    - **Challenges**: Buyers face an outdated, high-friction interface with inaccurate listings, inactive sellers, and weak chat functionality, pushing them to WhatsApp. Subpar verification standards require manual filtering, while vendors deal with low-quality or fraudulent leads. The rigid structure clashes with India’s dynamic B2B culture.
-    - **Pricing & Revenue Model**: Freemium model with free listings. Paid subscriptions (Silver, Gold, Platinum, ₹3,000–₹50,000+/year) offer priority listing, BuyLeads access, CRM tools, and payment facilitation. Leads cost ~₹350+ each. Piloting transaction fees.
-    - **Seller Impact**: Affordable for MSMEs, but low-quality leads and high competition reduce ROI for smaller vendors.
-    - **Cultural Alignment**: Lacks negotiation tools, misaligning with flexible B2B norms.
-- **JustDial**
-    - **Challenges**: Primarily B2C, JustDial lacks B2B product depth and industry-specific filters, making procurement inefficient. Vendors get irrelevant leads from its consumer base, and high pricing excludes smaller businesses. The generic model limits customized terms.
-    - **Pricing & Revenue Model**: Free listings with low visibility. Paid plans: Basic (₹20,000 setup + ₹2,000/month) or Premium (₹65,000–₹120,000 one-time) for priority listing, lead access, and promotion. JD Mart charges for leads.
-    - **Seller Impact**: High costs deter MSMEs; B2C focus yields irrelevant leads, lowering ROI.
-    - **Cultural Alignment**: Rigid model doesn’t support negotiation, misaligning with B2B needs.
-- **TradeIndia**
-    - **Challenges**: Inconsistent listing accuracy and a less intuitive interface hinder buyers. A smaller user base limits supplier options. Vendors face low lead volumes and unverified inquiries, reducing conversions. Industry focus doesn’t support real-time negotiation.
-    - **Pricing & Revenue Model**: Free listings. Paid subscriptions (₹5,000–₹40,000+/year) include priority listing, Trust Stamp, RFQ access, and website creation. Leads cost ~₹300–₹500.
-    - **Seller Impact**: Moderate costs, but low lead volumes and inconsistent listings reduce ROI.
-    - **Cultural Alignment**: Limited flexibility despite industry focus, falling short of dynamic B2B needs.
+JustDial
+Issues: More B2C than B2B. Shallow product catalogs and irrelevant consumer leads waste vendor time. High entry pricing gates out small businesses.
+Pricing: Free basic listings. Paid plans start at ₹20,000+setup, going up to ₹1.2L for premium.
+Seller ROI: Not viable for MSMEs.
+Cultural Fit: Largely rigid and too generic for B2B workflows.
 
-#### Transaction-Based Marketplaces
+TradeIndia
+Issues: Clunky UX and limited listings. Smaller user base = fewer matches. Real-time negotiation isn’t built-in.
+Pricing: ₹5,000–₹40,000+/yr for features like RFQ access and site creation. Leads cost ~₹300–₹500.
+Seller ROI: Moderate costs, but weak conversions.
+Cultural Fit: Still rigid. Doesn't reflect dynamic B2B culture.
 
-- **Moglix**
-    - **Challenges**: Ensures reliability, timely deliveries, and quality control with flexible financing, but cost-sharing raises buyer prices and cuts vendor margins, deterring SMEs. Standardized processes feel rigid, and smaller networks limit diversity. Complex onboarding and enterprise focus alienate smaller businesses.
-    - **Pricing & Revenue Model**: Commission (5–15% per sale) covers logistics, quality control, and lead matching. Sellers share operational costs. SaaS tools (e.g., vendor management) have subscription fees. No listing fees, but strict onboarding.
-    - **Seller Impact**: High commissions and costs deter MSMEs; enterprise focus excludes smaller vendors.
-    - **Cultural Alignment**: Opaque, rigid pricing clashes with negotiation-driven culture.
-- **Infra.Market**
-    - **Challenges**: Offers reliable supply and quality control, but cost-sharing and private-label model increase prices and reduce margins. Standardized processes, complex onboarding, and large-enterprise focus limit SME access. Opaque pricing erodes trust.
-    - **Pricing & Revenue Model**: Commission-based (5–15% per sale) with cost-sharing for logistics and quality control. Private-label model may involve fixed pricing contracts. No listing fees, but complex onboarding.
-    - **Seller Impact**: High costs and low margins deter MSMEs; enterprise focus limits access.
-    - **Cultural Alignment**: Opaque, standardized pricing hinders negotiation, misaligning with B2B norms.
+Transaction-Based Marketplaces
+Moglix
+Issues: Great on reliability and quality control, but cost-sharing drives up buyer prices and slashes vendor margins. Enterprise-focused UX alienates MSMEs.
+Pricing: Commission (5–15%) per sale. SaaS tools are extra.
+Seller ROI: High barrier to entry and poor margins for smaller players.
+Cultural Fit: Opaque, standardized pricing ≠ India’s deal-making culture.
 
+Infra.Market
+Issues: High trust and logistics, but private-label model reduces vendor differentiation. Complex onboarding and fixed pricing limit adoption.
+Pricing: 5–15% commission with bundled services.
+Seller ROI: Low, unless you’re enterprise-sized.
+Cultural Fit: Not aligned. No space for flexibility or haggling.
 
-### Proposing STHI (SiteSathi)
+Proposing STHI (SiteSathi)
+The website was designed for onboarding early vendors and buyers. The idea: cold-call local businesses, and if they’re interested, ask them to find their business on Google Places via the site, log in with their GMB account, and auto-schedule a Google Meet where we verify them as a legitimate business and pitch our idea at the same time.
 
-A mobile-first app serving as a construction-centered B2B marketplace, STHI runs on demand-driven orderbooks combined with user verification (for both vendors and buyers, since it’s B2B-only), and quality-control measures to help commoditize less brand-sensitive materials like cement, steel, and bricks. It’s partnered with last-mile logistics to leverage the strengths of India’s fragmented B2B vendor market and speed up proximity-based procurement.
+<p align="center"> <img src="https://github.com/user-attachments/assets/0f5bacd0-5404-4c9a-ab39-50886f8dc81f" width="30%" /> <img src="https://github.com/user-attachments/assets/10969e56-5b99-4322-99f6-44a7330836f2" width="30%" /> <img src="https://github.com/user-attachments/assets/3a085239-0b84-407c-96a1-44a6a3b25ecf" width="30%" /> </p>
+A mobile-first app built for India’s construction-centered B2B ecosystem, STHI runs on demand-driven order books with verified users on both ends (vendors and buyers) and quality control to help commoditize less brand-sensitive inputs like cement, steel, and bricks. It partners with last-mile logistics to capitalize on the strengths of India’s fragmented vendor base and speed up hyperlocal procurement.
 
-A Tinder-style, gamified UI lets vendors swipe on requirements recommended by the algorithm — posted by buyers — kicking off a streamlined negotiation process to finalize a quote object and semi-automatically generate purchase orders. This replaces the typical freeform chat or phone-call model.
+Vendors interact with a gamified, Tinder-style UI to swipe on buyer-posted requirements recommended by our algorithm. This kicks off a lightweight negotiation flow that ends in a structured quote object and a semi-automated purchase order. No chaotic WhatsApp chats or cold calling.
 
-Credibility scores are calculated using a mix of external ratings (e.g., Google) and in-app performance metrics, which also influence recommendations. Market pressure is flipped — inactive sellers get filtered out automatically.
+Credibility scores are dynamic — combining Google reviews and in-app performance — and directly influence algorithmic recommendations. Inactive sellers are quietly phased out through negative filtering.
 
-The revenue model runs on a credit-based system to reduce user commitment. Users pay only for what they use, avoiding long-term contracts that often don’t deliver enough ROI.
+Our revenue model is usage-based. A credit system allows businesses to pay only for what they use, instead of getting locked into long-term subscriptions that often underdeliver.
