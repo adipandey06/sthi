@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "833693730476",
+    "project_id": "sitesathi-4f0e4",
+    "storage_bucket": "sitesathi-4f0e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833693730476:android:dac72c073e53274d8e8109",
+        "android_client_info": {
+          "package_name": "com.example.sitesathi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833693730476-4anqee674n6slnain4gukg5mchr3pljs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sitesathi",
+            "certificate_hash": "ab22535dcf48170817d54cd276916d713b00f0bb"
+          }
+        },
+        {
+          "client_id": "833693730476-ahv6svij1f2f0ok0pai4avt56rpos2ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJy6fCbZEPbjt5gu8Yf6q0iWSKx9IIKFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833693730476-ahv6svij1f2f0ok0pai4avt56rpos2ag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "833693730476-c5slnkac5uchsdq63lb9fg1c6hjl4fqb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sitesathi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833693730476:android:792cb554f8c01c1e8e8109",
+        "android_client_info": {
+          "package_name": "com.sitesathi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833693730476-a4qh0m8gkt04f8i3gg2arcpn416knn1d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sitesathi.app",
+            "certificate_hash": "1f29f7ff3955223c4ee04a637d9b27a5d7a608ff"
+          }
+        },
+        {
+          "client_id": "833693730476-ahv6svij1f2f0ok0pai4avt56rpos2ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJy6fCbZEPbjt5gu8Yf6q0iWSKx9IIKFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833693730476-ahv6svij1f2f0ok0pai4avt56rpos2ag.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "833693730476-c5slnkac5uchsdq63lb9fg1c6hjl4fqb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sitesathi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
