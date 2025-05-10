@@ -1,9 +1,11 @@
 
 
 <p align="center"> <img src="https://github.com/user-attachments/assets/8720152d-de7e-4ce3-b8f7-e6d69dfb39e0" width="30%" /> </p>
-India’s B2B market runs on long-standing relationships and negotiation-driven workflows. Flexibility in payment terms, delivery timelines, and order volumes is critical. But for smaller MSMEs lacking access to these informal networks, most online platforms—IndiaMART, JustDial, TradeIndia, Moglix, Infra.Market—fail to replicate the trust, fluidity, and efficiency they need.
 
-Note: This isn’t an MVP or functional prototype—just a proof of thought and initial direction.
+
+*Note: This isn’t an MVP or functional prototype—just a proof of thought and initial direction.*
+
+India’s B2B market runs on long-standing relationships and negotiation-driven workflows. Flexibility in payment terms, delivery timelines, and order volumes is critical. But for smaller MSMEs lacking access to these informal networks, most online platforms—IndiaMART, JustDial, TradeIndia, Moglix, Infra.Market—fail to replicate the trust, fluidity, and efficiency they need.
 
 The Problem with Existing Platforms
 Classifieds-Based Marketplaces
