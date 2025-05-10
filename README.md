@@ -1,3 +1,6 @@
+***Note: This isn’t an MVP or functional prototype—just a proof-of-thought and initial direction.***
+
+
 India’s B2B market thrives on long-standing relationships and a negotiation-driven culture, where flexibility in payment terms, delivery conditions, and order volumes is key. For less-established MSMEs lacking access to widespread informal networks, existing online platforms like IndiaMART, JustDial, TradeIndia, Moglix, and Infra.Market fall short in replicating the trust, flexibility, and efficiency these businesses need.
 
 ### The Problem with Existing Platforms
