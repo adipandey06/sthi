@@ -4,7 +4,6 @@
 - **Frontend:** Flutter (Dart) — cross-platform, mobile-first UI development.
 - **State Management:** Cubit (Bloc pattern) — for scalable and maintainable state handling.
 - **Backend:** Firebase — Authentication, Cloud Firestore database, and Cloud Functions.
-- **Package Management:** Pub — managing dependencies and packages.
 
 
 <p align="center">
