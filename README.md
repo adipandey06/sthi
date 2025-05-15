@@ -50,7 +50,7 @@ India’s B2B market thrives on long-standing relationships and negotiation-driv
 
 The initial website was designed to onboard early vendors and buyers. The approach:
 
-> Cold-call local businesses → If interested, ask them to search their Google Place on our website → Log in via GMB → Auto-schedule a GMeet → Verify the business + pitch the platform.
+> Cold-call local businesses → If interested, ask them to search their Google Place on our website → Log in via GMB → Auto-schedule a GMeet where we verified the details of the business + pitched the platform.
 
 ---
 
