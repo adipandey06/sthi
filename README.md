@@ -65,7 +65,7 @@ The initial website was designed to onboard early vendors and buyers. The approa
 
 A mobile-first app built for construction-focused B2B procurement in India. Key features:
 
-📍 **Proximity-Weighted Orderbooks**
+📍 **Proximity-Weighted Demand-driven Orderbook Algorithm**
 
 Verified buyers post structured requirements—manually or by importing BOQs (Bill of Quantities). Orders are recommended to nearby vendors based on proximity and margin potential, optimizing for transport costs and response quality.
 
