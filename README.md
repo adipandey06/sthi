@@ -1,6 +1,6 @@
 # STHI (SiteSathi)
 
-> ⚠️ **Note**: This isn’t an MVP or functional prototype—just a proof of thought and initial direction.
+> ⚠️ Note: This was a short-lived exploration during my deferral year after high school, aimed at solving inefficiencies in India’s MSME B2B procurement space. While the project was ended early, it reflects my approach to market research, product thinking, and early execution. I’m now looking to bring this mindset into a fast-paced startup environment.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8720152d-de7e-4ce3-b8f7-e6d69dfb39e0" width="300"/>
@@ -83,5 +83,6 @@ A hybrid scoring system combines Google reviews, in-app reliability, and engagem
 💳 **Pay-as-You-Go Model**
 
 A credit-based pricing system replaces rigid subscriptions. Users only pay when they post, quote, or negotiate—unlike the expensive, upfront models used by existing players.
+
 
 ---
