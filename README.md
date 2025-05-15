@@ -63,21 +63,18 @@ The initial website was designed to onboard early vendors and buyers. The approa
 
 ## 📱 What STHI Could Be
 
-A mobile-first app for construction-centered B2B procurement. Here’s how it works:
+A mobile-first app built for construction-focused B2B procurement in India. Key features:
 
-- **Demand-Driven Orderbooks**  
-  Verified vendors and buyers interact over structured, algorithm-recommended requirements.
+📍 Proximity-Weighted Orderbooks
+Verified buyers post structured requirements—manually or by importing BOQs (Bill of Quantities). Orders are recommended to nearby vendors based on proximity and margin potential, optimizing for transport costs and response quality.
 
-- **Gamified Vendor UI**  
-  A Tinder-style swipe experience lets vendors respond to relevant orders. Matches trigger a negotiation flow that generates a structured quote and semi-automated purchase order.
+🎯 Gamified Discovery & Structured Negotiation
+Vendors swipe through nearby requirements in a Tinder-style interface. Once interested, they enter a guided negotiation flow—supporting counter-offers, delivery terms, and timelines—documenting all interactions to reduce fragmented chats and calls.
 
-- **No Contact-Sharing**  
-  Replaces WhatsApp/phone call workflows with in-app structured negotiation.
+⭐ Lead Scoring & Smart Matching
+A hybrid scoring system combines Google reviews, in-app reliability, and engagement history to filter inactive vendors and enhance match quality.
 
-- **Credibility Scoring**  
-  Combines Google ratings with in-app metrics to personalize recommendations and auto-filter inactive vendors.
-
-- **Pay-As-You-Go**  
-  A credit-based revenue model replaces long-term subscriptions. Users pay only for what they use.
+💳 Pay-as-You-Go Model
+A credit-based pricing system replaces rigid subscriptions. Users only pay when they post, quote, or negotiate—unlike the expensive, upfront models used by existing players.
 
 ---
