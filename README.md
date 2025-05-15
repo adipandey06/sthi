@@ -65,16 +65,16 @@ The initial website was designed to onboard early vendors and buyers. The approa
 
 A mobile-first app built for construction-focused B2B procurement in India. Key features:
 
-📍 Proximity-Weighted Orderbooks
+📍 **Proximity-Weighted Orderbooks**
 Verified buyers post structured requirements—manually or by importing BOQs (Bill of Quantities). Orders are recommended to nearby vendors based on proximity and margin potential, optimizing for transport costs and response quality.
 
-🎯 Gamified Discovery & Structured Negotiation
+🎯 **Gamified Discovery & Structured Negotiation**
 Vendors swipe through nearby requirements in a Tinder-style interface. Once interested, they enter a guided negotiation flow—supporting counter-offers, delivery terms, and timelines—documenting all interactions to reduce fragmented chats and calls.
 
-⭐ Lead Scoring & Smart Matching
+⭐ **Lead Scoring & Smart Matching**
 A hybrid scoring system combines Google reviews, in-app reliability, and engagement history to filter inactive vendors and enhance match quality.
 
-💳 Pay-as-You-Go Model
+💳 **Pay-as-You-Go Model**
 A credit-based pricing system replaces rigid subscriptions. Users only pay when they post, quote, or negotiate—unlike the expensive, upfront models used by existing players.
 
 ---
