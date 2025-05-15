@@ -54,12 +54,9 @@ The Indian B2B sector is characterized by long-standing relationships and negoti
 
 ## 🚀 STHI: Concept and Approach
 
-STHI was envisioned as a mobile-first platform targeting the construction-focused B2B procurement segment. Early efforts included:
+The initial website was designed to onboard early vendors and buyers. The approach:
 
-- Direct outreach to local businesses
-- Enabling business discovery via Google Places integration
-- Verification through Google My Business login and scheduled video calls
-
+> Cold-call local businesses → If interested, ask them to search their Google Place on our website → Log in via GMB → Auto-schedule a GMeet where we verified the details of the business + pitched the platform
 ---
 
 ### 📸 Screenshots
