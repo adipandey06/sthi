@@ -1,7 +1,5 @@
 # STHI (SiteSathi)
 
-> ⚠️ **Note**: This project was a brief exploration during my deferral year after high school, focused on addressing challenges in India’s MSME B2B procurement landscape. Although it was concluded early, it reflects my approach to market research, product design, and early-stage execution. I’m eager to apply these skills in a dynamic startup environment.
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8720152d-de7e-4ce3-b8f7-e6d69dfb39e0" width="300"/>
 </p>
