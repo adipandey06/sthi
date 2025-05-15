@@ -1,88 +1,86 @@
 # STHI (SiteSathi)
 
-> ⚠️ Note: This was a short-lived exploration during my deferral year after high school, aimed at solving inefficiencies in India’s MSME B2B procurement space. While the project was ended early, it reflects my approach to market research, product thinking, and early execution. I’m now looking to bring this mindset into a fast-paced startup environment.
+> ⚠️ **Note**: This project was a brief exploration during my deferral year after high school, focused on addressing challenges in India’s MSME B2B procurement landscape. Although it was concluded early, it reflects my approach to market research, product design, and early-stage execution. I’m eager to apply these skills in a dynamic startup environment.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8720152d-de7e-4ce3-b8f7-e6d69dfb39e0" width="300"/>
 </p>
 
-## 🏗️ Context: The Indian B2B Market
+---
 
-India’s B2B market thrives on long-standing relationships and negotiation-driven workflows. Flexibility in payment terms, delivery timelines, and order volumes is critical. But smaller MSMEs without strong informal networks find that most online platforms—IndiaMART, JustDial, TradeIndia, Moglix, Infra.Market—fall short in delivering the trust, fluidity, and efficiency they need.
+## 🏗️ Background: The Indian B2B Market
 
+The Indian B2B sector is characterized by long-standing relationships and negotiation-centric workflows. Flexibility around payment terms, delivery schedules, and order sizes is common. However, many smaller MSMEs without extensive informal networks face difficulties navigating existing platforms such as IndiaMART, JustDial, TradeIndia, Moglix, and Infra.Market, which often lack the nuanced support these businesses require.
 
-## ⚙️ Problems with Existing Platforms
+---
+
+## ⚙️ Observations on Existing Platforms
 
 ### 🗂️ Classifieds-Based Marketplaces
 
 #### **IndiaMART**
-- **Issues**: Outdated interface, inaccurate listings, inactive sellers, weak chat UX. Conversations often move to WhatsApp. Vendors face spam or junk leads.  
-- **Pricing**: Freemium. Paid tiers (₹3,000–₹50,000+/yr) offer lead access, CRM, and visibility. Leads cost ~₹350+.  
-- **Fit**: Doesn’t support India’s flexible B2B culture. Rigid, static, and inefficient.
+- **Challenges**: The interface is dated, listings can be inaccurate, and spam leads are common. Many transactions and communications shift to external apps like WhatsApp.
+- **Pricing**: Freemium model with paid tiers ranging approximately ₹3,000 to ₹50,000 per year, plus lead costs around ₹350.
+- **Fit**: The platform’s rigid, transactional nature does not fully accommodate the flexibility inherent in India’s B2B market.
 
 #### **JustDial**
-- **Issues**: Too B2C-focused. Vendors get irrelevant consumer leads. Expensive entry costs for small businesses.  
-- **Pricing**: Free listings with low visibility. Paid plans: Basic (₹20,000+ setup), Premium (₹65,000–₹120,000).  
-- **Fit**: Generic and rigid. Doesn’t enable negotiation or volume-based flexibility.
+- **Challenges**: Primarily oriented towards B2C, leading to mismatched vendor leads. Entry costs can be prohibitive for smaller businesses.
+- **Pricing**: Basic listings are free but have limited visibility; paid plans start around ₹20,000.
+- **Fit**: A generalist approach that may overlook the specific needs of dynamic B2B procurement.
 
 #### **TradeIndia**
-- **Issues**: Clunky UX, limited user base, low-quality leads. Real-time negotiation is missing.  
-- **Pricing**: ₹5,000–₹40,000+/yr. Leads cost ₹300–₹500.  
-- **Fit**: Better pricing, but still misses the cultural expectations of dynamic deal-making.
-
----
+- **Challenges**: User experience is not highly polished, with a limited user base and absence of real-time negotiation features.
+- **Pricing**: Annual fees between ₹5,000 and ₹40,000, with leads costing ₹300–₹500.
+- **Fit**: While pricing is competitive, the platform lacks features aligned with Indian B2B practices.
 
 ### 🔄 Transaction-Based Marketplaces
 
 #### **Moglix**
-- **Issues**: High reliability but cost-sharing inflates prices and cuts vendor margins. Enterprise-focused UX. Complex onboarding.  
-- **Pricing**: Commission-based (5–15%), with optional SaaS tools.  
-- **Fit**: Rigid, opaque, and not MSME-friendly.
+- **Challenges**: Focused on enterprise clients with commission fees impacting vendor margins and a relatively complex onboarding process.
+- **Pricing**: Commission-based (5–15%), alongside optional SaaS offerings.
+- **Fit**: Reliable but less tailored to MSME needs.
 
 #### **Infra.Market**
-- **Issues**: Trustworthy supply but private-label model erodes vendor flexibility. Limited differentiation. Complex onboarding.  
-- **Pricing**: 5–15% commission with bundled services.  
-- **Fit**: Misaligned with India's flexible, trust-based B2B practices.
+- **Challenges**: Maintains supply chain trustworthiness but reduces vendor autonomy through a private-label approach.
+- **Pricing**: Similar commission structure to Moglix.
+- **Fit**: Strong infrastructure but less aligned with the flexibility sought by smaller vendors.
 
 ---
 
-## 🚀 Proposing STHI (SiteSathi)
+## 🚀 STHI: Concept and Approach
 
-The initial website was designed to onboard early vendors and buyers. The approach:
+STHI was envisioned as a mobile-first platform targeting the construction-focused B2B procurement segment. Early efforts included:
 
-> Cold-call local businesses → If interested, ask them to search their Google Place on our website → Log in via GMB → Auto-schedule a GMeet where we verified the details of the business + pitched the platform.
+- Direct outreach to local businesses
+- Enabling business discovery via Google Places integration
+- Verification through Google My Business login and scheduled video calls
 
 ---
 
-### 🔍 Screenshots
+### 📸 Screenshots
 
 | ![s1](https://github.com/user-attachments/assets/0f5bacd0-5404-4c9a-ab39-50886f8dc81f) | ![s2](https://github.com/user-attachments/assets/10969e56-5b99-4322-99f6-44a7330836f2) | ![s3](https://github.com/user-attachments/assets/3a085239-0b84-407c-96a1-44a6a3b25ecf) |
 |:--:|:--:|:--:|
 
 ---
 
-## 📱 What STHI Could Be
+## 📱 Potential Features
 
-A mobile-first app built for construction-focused B2B procurement in India. Key features:
+### 📍 Proximity-Weighted Orderbooks  
+Buyers could post structured requirements manually or via BOQ imports. Orders would be matched to vendors based on proximity and margin optimization, helping reduce transport costs and improve response quality.
 
-📍 **Proximity-Weighted Demand-driven Orderbook Algorithm**
+### 🎯 Gamified Discovery & Guided Negotiation  
+Vendors would browse nearby requirements with a swipe-based interface. Interested vendors would enter a guided negotiation workflow covering counter-offers, delivery terms, and timelines — consolidating discussions within the app.
 
-Verified buyers post structured requirements—manually or by importing BOQs (Bill of Quantities). Orders are recommended to nearby vendors based on proximity and margin potential, optimizing for transport costs and response quality.
+### ⭐ Lead Scoring & Smart Matching  
+A combined score factoring in Google reviews, in-app reliability, and engagement history would prioritize active vendors and improve recommendation quality.
 
-
-🎯 **Gamified Discovery & Structured Negotiation**
-
-Vendors swipe through nearby requirements in a Tinder-style interface. Once interested, they enter a guided negotiation flow—supporting counter-offers, delivery terms, and timelines—documenting all interactions to reduce fragmented chats and calls.
-
-
-⭐ **Lead Scoring & Smart Matching**
-
-A hybrid scoring system combines Google reviews, in-app reliability, and engagement history to filter inactive vendors and enhance match quality.
-
-
-💳 **Pay-as-You-Go Model**
-
-A credit-based pricing system replaces rigid subscriptions. Users only pay when they post, quote, or negotiate—unlike the expensive, upfront models used by existing players.
-
+### 💳 Pay-as-You-Go Model  
+A credit-based pricing system would allow users to pay only for the actions they take—posting, quoting, or negotiating—avoiding upfront subscription fees.
 
 ---
+
+## 💡 Why This Is Here
+
+Though STHI did not progress to a full MVP, the project captures my approach to exploring market opportunities, product development, and execution under uncertainty. Sharing it here provides insight into how I tackle early-stage challenges and product design.
+
