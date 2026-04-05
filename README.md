@@ -1,10 +1,20 @@
 # STHI (SiteSathi)
 
 ## Tech Stack
-- **Frontend:** Flutter (Dart) — cross-platform, mobile-first UI development.
-- **State Management:** Cubit (Bloc pattern) — for scalable and maintainable state handling.
-- **Backend:** Firebase — Authentication, Cloud Firestore database, and Cloud Functions.
+- **Frontend:** Flutter (Dart), Material/ShadCN
+- **State Management:** BLoC/Cubit
+- **Backend:** Firebase (Authentication, Cloud Firestore, Cloud Functions, Storage)
+- **Integrations:** OAuth 2.0 (SSO), RevenueCat (subscriptions)
 
+## Features Implemented
+- Authentication (OAuth 2.0/SSO)
+- Role-based access control
+- Subscriptions (RevenueCat)
+- Notifications
+- Multimedia uploads/downloads
+- Version-gating
+- Project tracking
+- Team management
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8720152d-de7e-4ce3-b8f7-e6d69dfb39e0" width="300"/>
